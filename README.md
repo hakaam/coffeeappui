@@ -1,16 +1,27 @@
-# tastiappui
+# CoffeeAppUI
 
-A new Flutter project.
+ScreenShots
 
-## Getting Started
+1.HomePage
 
-This project is a starting point for a Flutter application.
+![home](home.PNG)
 
-A few resources to get you started if this is your first Flutter project:
+2.DetailsPage
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+![detail](detail.PNG)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+3.DetaillPage
+
+![detaill](detaill.PNG)
+
+4.CartPage
+
+![cart](cart.PNG)
+
+5.CarttPage
+
+![cartt](cartt.PNG)
+
+
+
+
